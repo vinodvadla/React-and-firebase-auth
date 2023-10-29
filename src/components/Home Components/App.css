@@ -1,0 +1,7 @@
+.card-bottom{
+    border-bottom-right-radius:5px;
+    border-top:2px solid lightgray;
+}
+.Active{
+    color:black;
+}
